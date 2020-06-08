@@ -6,9 +6,7 @@ The data and MATLAB and Python code used for analysis and figure generation of Y
 
 If using any of the data or code, please cite the following article:
 
-[Lipid digestion and autophagy are critical energy providers during acute glucose depletion in *Saccharomyces cerevisiae*](https://www.biorxiv.org/content/10.1101/728667v1)
-
-Carmen A. Weber, Karthik Sekar, Jeffrey H. Tang, Philipp Warmer, Uwe Sauer, Karsten Weis
+Weber CA, Sekar K, Tang JH, Warmer P, Sauer U, Weis K. [β-Oxidation and autophagy are critical energy providers during acute glucose depletion in Saccharomyces cerevisiae](https://www.pnas.org/content/117/22/12239). Proc Natl Acad Sci U S A. 2020;117(22):12239‐12248. doi:10.1073/pnas.1913370117
 
 
 ## The parts
